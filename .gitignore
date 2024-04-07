@@ -1,0 +1,8 @@
+build_BurstDebugInformation_DoNotShip/
+Logs/
+UserSettings/
+Library/
+.DS_Store
+**/.DS_Store
+.vscode
+
